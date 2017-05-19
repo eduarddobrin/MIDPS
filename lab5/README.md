@@ -1,5 +1,5 @@
 Repartizarea lucrului :
-Dobrin Eduard –  Partea functionala a lucrarii
+Dobrin Eduard –  Partea functionala a lucrarii //
 Negru Igor –  Partea grafica a lucrarii
 
 In lucrarea data s-a creat o aplicatie mobila pe Android. 
